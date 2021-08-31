@@ -1,0 +1,16 @@
+.detalles{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
+.col{
+    margin: 15px;
+    font-size: 18px;
+    max-width: 400px;
+    height: auto;
+    height: 80%;
+}
+.detailImg{
+    border-radius: 8px;
+    opacity: 0.99;
+}

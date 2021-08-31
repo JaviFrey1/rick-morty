@@ -1,0 +1,24 @@
+.grilla{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 50px;
+    padding: 50px;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+@media (max-width: 400px){
+    .grilla{
+        width: 80%;
+        height: auto;
+    }
+}
+.tituloRick{
+    text-align: center;
+    font-weight: bold;
+}

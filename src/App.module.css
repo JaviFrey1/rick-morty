@@ -1,0 +1,18 @@
+.h2{
+    font-family:sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    text-shadow: 1px 1px 2px #cbcbcb; 
+    padding: 2px;
+    font-weight: 600;
+    font-size: 40px;
+    background-color: #5d4d7e;
+    border: 2px solid #513093;
+    color: whitesmoke;
+}
+.h2:hover{
+    opacity: 0.7;
+}

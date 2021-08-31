@@ -1,0 +1,14 @@
+.lista{
+    list-style: none;
+    font-size: 18px;
+}
+
+.lista:hover{
+    opacity: 0.4;
+}
+
+.rickImg{
+    border-radius: 12px;
+    background-color: rgb(209, 236, 236);
+}
+
